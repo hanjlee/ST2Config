@@ -1,0 +1,13 @@
+{
+	"color_scheme": "Packages/Color Scheme - Default/Monokai.tmTheme",
+	"font_face": "NanumGothicCoding",
+	"font_size": 13.0,
+	"ignored_packages":
+	[
+		"Vintage",
+		"Markdown"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"wrap_width": 0
+}
