@@ -8,5 +8,6 @@
   	{ "keys": ["ctrl+home"], "command": "move_to", "args": {"to": "bof"} },
 	{ "keys": ["ctrl+end"], "command": "move_to", "args": {"to": "eof"} },
 	{ "keys": ["ctrl+shift+home"], "command": "move_to", "args": {"to": "bof", "extend": true} },
-	{ "keys": ["ctrl+shift+end"], "command": "move_to", "args": {"to": "eof", "extend": true} }
+	{ "keys": ["ctrl+shift+end"], "command": "move_to", "args": {"to": "eof", "extend": true} },
+    { "keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser", "parser": "markdown"} }
 ]

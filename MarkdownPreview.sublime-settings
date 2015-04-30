@@ -1,0 +1,7 @@
+{
+    "enable_mathjax": true,	
+    "markdown_filetypes": [".md", ".markdown", ".mdown", ".mmd"],
+    "image_path_conversion": "absolute",
+    "file_path_conversions": "absolute",
+    "strip_critic_marks": "accept"
+}
